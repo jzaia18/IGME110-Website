@@ -1,0 +1,6 @@
+#! /usr/bin/bash
+
+#This is a way of easily "pushing" via SCP though commandline to banjo.
+      #These values are hard coded and should not be used elsewhere
+
+scp -r ~/CompSci/IGME110/linuxproject jlz2369@banjo.rit.edu:www/
