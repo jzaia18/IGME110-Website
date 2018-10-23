@@ -1,8 +1,4 @@
-.references-list {
-    margin-left: 5%;
-    margin-right: 3%;
-}
-
-.references-list li {
-    margin-bottom: 7px;
+#references-desc {
+    text-align: center;
+    color: #555;
 }
