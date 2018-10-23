@@ -2,3 +2,18 @@
     text-align: center;
     color: #555;
 }
+
+.references-list {
+    list-style: none;
+    /*background: rgba(255, 255, 255, 0.3);*/
+}
+
+.references-list li {
+    margin-top: 5px;
+}
+
+.glyphicon {
+    opacity: 0.7;
+    margin-right: 5px;
+    margin-left: -3px;
+}
