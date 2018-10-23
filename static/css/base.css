@@ -1,5 +1,5 @@
 body {
-    background-image: url(../img/background.png);
+    background-image: url(../img/base/background.png);
     background-color: #A9DFF9;
     font-family: 'Ubuntu', sans-serif;
     color: #333333;
@@ -62,7 +62,7 @@ body {
 }
 
 .image-text-pair img {
-    height: 90%;
+    max-height: 90%;
     max-width: 80%;
     vertical-align: middle;
     display: block;
