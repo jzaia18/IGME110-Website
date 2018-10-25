@@ -35,7 +35,10 @@ body {
 
 .content {
     margin: 7px;
-    padding: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
     min-height: calc(100vh - 121px);
     background-color: rgba(239, 242, 244, 0.3);
 }
@@ -53,12 +56,12 @@ body {
     width: 70vw;
 }
 
-.itp-p-left {
-    padding-left: 5%;
+.itp-left {
+    padding-left: 3vw;
 }
 
-.itp-p-right {
-    padding-right: 5%;
+.itp-right {
+    padding-right: 3vw;
 }
 
 .image-text-pair img {
@@ -70,13 +73,13 @@ body {
 }
 
 hr {
-    width: 90%;
+    width: 85vw;
     border-color: #2B2D42;
 }
 
 h1 {
     text-align: center;
-    font-size: 48px;
+    font-size: 40pt;
     color: #2B2D42;
 }
 
