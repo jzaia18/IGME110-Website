@@ -1,5 +1,12 @@
-p {
+.about-text-wrapper {
+    margin: auto;
     margin-top: 30px;
-    margin-left: 5%;
-    margin-right: 5%;
+    width: 70vw;
+}
+
+.about-text-wrapper p {
+    font-size: 14pt;
+    text-align: justify;
+    text-indent: 3em;
+    line-height: 1.5;
 }
