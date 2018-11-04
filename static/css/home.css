@@ -5,4 +5,9 @@ h2 {
 
 .image-text-pair p {
     font-size: 14pt;
+    text-indent: 3em;
+}
+
+#steam-logo {
+    padding: 20px; /* otherwise the steam logo fels uncomfortably large */
 }
